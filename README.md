@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Linkedin Badge](https://img.shields.io/badge/-shivam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivam-chibber-9a6b8170/)](https://www.linkedin.com/in/shivam-chibber-9a6b8170/)
+[![Linkedin Badge](https://img.shields.io/badge/-Shivam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivam-chibber-9a6b8170/)](https://www.linkedin.com/in/shivam-chibber-9a6b8170/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Shivam-yellow)](https://stackoverflow.com/users/16333895/Shivam-)
 
 I'm
